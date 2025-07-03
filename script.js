@@ -18,20 +18,10 @@
 
 
 
-let Rain=false
 
-if(Rain){
-  console.log("I won't go to university.");
-  
-}else{
-  console.log("I will go to university.")
-}
-
-
-
-let age = 20
+let age = 21
 let selary = 30000
-let home= "Bhola"
+let home= "Dhaka"
 
 if(age>18){
   if(selary>=30000){
